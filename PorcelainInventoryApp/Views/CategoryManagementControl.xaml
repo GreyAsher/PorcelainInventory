@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="PorcelainInventoryApp.Views.CategoryManagementControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PorcelainInventoryApp.Views"
+             xmlns:vm="clr-namespace:PorcelainInventoryApp.ViewModels"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="600">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- 🔙 Back Button -->
+        <Button Grid.Row="0" Style="{StaticResource pagingButton}"
+        HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,10">
+            <StackPanel Orientation="Horizontal">
+                <Icon:PackIconMaterial Kind="ArrowLeft" Width="16" Height="16" Margin="0 1 8 0"/>
+                <TextBlock Text="Back" Width="80"/>
+            </StackPanel>
+        </Button>
+
+
+        <!-- 📌 Page Title -->
+        <TextBlock Grid.Row="1" Text="Category Management" FontSize="28" FontWeight="SemiBold" Foreground="Black" Margin="0 10 0 20"/>
+
+        <!-- 📍 Toolbar -->
+        <Grid Grid.Row="2" Margin="0 10 0 10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- ➕ Add Category Button -->
+            <Button Grid.Column="0" Style="{StaticResource addCategoryButton}" Margin="0 0 10 0" Click="AddCategory_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Icon:PackIconMaterial Kind="Plus" Width="11" Height="11" Margin="0 1 8 0"/>
+                    <TextBlock Text="Add New Category"/>
+                </StackPanel>
+            </Button>
+
+            <!-- 🔎 Search Box -->
+            <Grid Grid.Column="1" Width="250" HorizontalAlignment="Right">
+                <TextBox x:Name="txtSearch" Style="{StaticResource textboxSearch}"/>
+            </Grid>
+        </Grid>
+
+        <!-- 📌 Category DataGrid -->
+        <DataGrid x:Name="dgCategories" Grid.Row="3" AutoGenerateColumns="False"
+                  HeadersVisibility="Column" CanUserAddRows="False" IsReadOnly="True"
+                  FontSize="11" BorderBrush="Gray" BorderThickness="1" Background="White" Margin="0 0 0 10"
+                  ItemsSource="{Binding Categories, UpdateSourceTrigger=PropertyChanged}">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Category Name" Binding="{Binding CategoryName}" Width="*"/>
+                <!-- 🖊️ Actions (Edit & Delete) -->
+                <DataGridTemplateColumn Header="Actions" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Edit" Style="{StaticResource editButton}" Margin="2" Click="EditButton_Click"/>
+                                <Button Content="Delete" Style="{StaticResource deleteButton}" Margin="2" Click="DeleteButton_Click"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,80 @@
+﻿using System.Collections.ObjectModel;
+using System.Windows;
+using System.Windows.Controls;
+using AppService.Interfaces;
+using Domain.Entities;
+using Infrastructure.Persistence;
+using Microsoft.Extensions.DependencyInjection;
+using PorcelainInventoryApp.ViewModels;
+using PorcelainInventoryApp.Views.AddWindows;
+using PorcelainInventoryApp.Views.ViewWindows;
+
+namespace PorcelainInventoryApp.Views
+{
+    /// <summary>
+    /// Interaction logic for SalesControl.xaml
+    /// </summary>
+    public partial class SalesControl : UserControl
+    {
+        private readonly IInvoiceService _invoiceService;
+        private readonly IProductService _productService;
+        private readonly int _invoiceId;
+
+        public SalesControl(IInvoiceService invoiceService, IProductService productService)
+        {
+            InitializeComponent();
+            _invoiceService = invoiceService;
+            _productService = productService;
+            DataContext = new InvoiceViewModel(invoiceService);
+        }
+
+        private void AddInvoiceButton_Click(object sender, RoutedEventArgs e)
+        {
+            var addInvoiceWindow = App.ServiceProvider.GetRequiredService<AddInvoiceWindow>();
+
+            // Subscribe to the InvoiceSaved event
+            addInvoiceWindow.InvoiceSaved += async (s, e) =>
+            {
+                // Reload the sales data
+                await LoadSalesData();
+            };
+
+            addInvoiceWindow.Show();
+        }
+
+        private async Task LoadSalesData()
+        {
+            try
+            {
+                // Fetch and bind the updated sales data to the DataGrid
+                var salesData = await _invoiceService.GetAllInvoicesAsync();
+                dgSales.ItemsSource = salesData;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error loading sales data: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void ViewInvoiceButton_Click(object sender, RoutedEventArgs e)
+        {
+            // Get selected invoice IDs from the DataGrid
+            var selectedInvoices = dgSales.SelectedItems.Cast<SalesTransactionViewModel>()
+                .Select(vm => vm.InvoiceId)
+                .ToList();
+
+            if (!selectedInvoices.Any())
+            {
+                MessageBox.Show("Please select at least one invoice to view.", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            // Open the InvoiceInfoWindow with the selected invoice IDs
+            var invoiceInfoWindow = new InvoiceInfoWindow(_invoiceService, selectedInvoices);
+            invoiceInfoWindow.ShowDialog();
+        }
+    }
+}
+
+
+

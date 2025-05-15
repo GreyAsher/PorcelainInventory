@@ -1,0 +1,2 @@
+﻿ALTER TABLE [dbo].[InvoiceItems] 
+ADD [CreatedAt] DATETIME2 DEFAULT GETUTCDATE() NOT NULL;

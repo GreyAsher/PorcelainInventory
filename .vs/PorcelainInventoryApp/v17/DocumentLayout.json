@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\porcelaininventoryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\views\\dashboardcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\views\\dashboardcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\views\\dashboardcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\views\\dashboardcontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D073CD7-C66E-4D7A-8905-9268338C7825}|Infrastructure\\Infrastructure.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D073CD7-C66E-4D7A-8905-9268338C7825}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D073CD7-C66E-4D7A-8905-9268338C7825}|Infrastructure\\Infrastructure.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\infrastructure\\migrations\\20250515183649_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D073CD7-C66E-4D7A-8905-9268338C7825}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250515183649_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515182940_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250515182940_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1346ACCB-7037-4149-B664-A8EF5DD49391}|Domain\\Domain.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1346ACCB-7037-4149-B664-A8EF5DD49391}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515182101_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20250515182101_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\converters\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\converters\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Migrations\\20250515165344_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PorcelainInventoryApp\\Migrations\\20250515165344_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|c:\\users\\playz\\onedrive\\dokumen\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\porcelaininventoryapp\\converters\\inversebooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB22EC5-D85D-4521-9F39-110AAC2A82AB}|PorcelainInventoryApp\\PorcelainInventoryApp.csproj|solutionrelative:porcelaininventoryapp\\converters\\inversebooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardControl.xaml",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Views\\DashboardControl.xaml",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\Views\\DashboardControl.xaml",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Views\\DashboardControl.xaml",
+              "RelativeToolTip": "PorcelainInventoryApp\\Views\\DashboardControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T19:12:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PorcelainInventoryApp",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp.csproj",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\PorcelainInventoryApp.csproj",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp.csproj",
+              "RelativeToolTip": "PorcelainInventoryApp\\PorcelainInventoryApp.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T18:49:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAYwJYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:12:12.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Views\\DashboardControl.xaml.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\Views\\DashboardControl.xaml.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Views\\DashboardControl.xaml.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\Views\\DashboardControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:28:25.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\App.xaml.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\App.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:31:16.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:48:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250515183649_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515183649_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250515183649_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515183649_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250515183649_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:36:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250515182940_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515182940_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250515182940_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515182940_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250515182940_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:29:40.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:21:58.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\appsettings.json",
+              "RelativeToolTip": "PorcelainInventoryApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T16:16:22.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250515182101_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515182101_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250515182101_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Infrastructure\\Migrations\\20250515182101_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250515182101_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:21:01.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\App.xaml",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\App.xaml",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\App.xaml",
+              "RelativeToolTip": "PorcelainInventoryApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T17:42:24.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ByteArrayToImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Converters\\ByteArrayToImageConverter.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\Converters\\ByteArrayToImageConverter.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Converters\\ByteArrayToImageConverter.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\Converters\\ByteArrayToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:20:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:19:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:19:51.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:19:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:00:06.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250515165344_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Migrations\\20250515165344_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\Migrations\\20250515165344_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Migrations\\20250515165344_InitialCreate.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\Migrations\\20250515165344_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:53:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InverseBooleanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Converters\\InverseBooleanConverter.cs",
+              "RelativeDocumentMoniker": "PorcelainInventoryApp\\Converters\\InverseBooleanConverter.cs",
+              "ToolTip": "C:\\Users\\playz\\OneDrive\\Dokumen\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\PorcelainInventoryApp\\Converters\\InverseBooleanConverter.cs",
+              "RelativeToolTip": "PorcelainInventoryApp\\Converters\\InverseBooleanConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:12:38.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
